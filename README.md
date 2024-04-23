@@ -1,5 +1,8 @@
 # qmk-profiles
-Hyper key is `cmd` + `alt` + `strg`.
+Hyper key is `cmd` + `alt` + `control`.
+
+
+Tmux prefix `control+a` on single key next to `control`.
 
 Software mapped to [ colemak ](https://colemak.com/). Second layer has arrow keys on `jkl;` (`neio` in colemak) for vim.
 
