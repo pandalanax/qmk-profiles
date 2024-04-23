@@ -1,4 +1,7 @@
 # qmk-profiles
+Keyboard: [Redox Split Keyboard](https://github.com/mattdibi/redox-keyboard) 
+
+
 Hyper key is `cmd` + `alt` + `control`.
 
 
